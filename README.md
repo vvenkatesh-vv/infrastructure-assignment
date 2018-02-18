@@ -29,4 +29,4 @@ Running the program prompts user to give path of folder in which it has to perfo
 creates a sorted linked list of top 10 files by size with their attributes.
 
 prints the Name, Size in MB and Path 
-of top 10 files by size from that folder and sub folder in ascending order.
+of top 10 files by size from that folder and sub folders in ascending order.
