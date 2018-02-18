@@ -9,7 +9,7 @@ HOW TO USE IT
 
 Running the program prompts user to give a name of folder as input.
 
-it checks if there exists a folder by that name in Documents forlder or not.
+it checks if there exists a folder by that name in Documents folder or not.
 
 creates a folder in Documents by that name.
 
