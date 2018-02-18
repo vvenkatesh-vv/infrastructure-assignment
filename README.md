@@ -13,7 +13,7 @@ it checks if there exists a folder by that name in Documents folder or not.
 
 creates a folder in Documents by that name.
 
-sorts all the files of Desktop into folders in the newly created folder.
+sorts all the files of Desktop into folders into the newly created folder.
 
 ------------------------top10indrive.py---------------------------------------------------------------------------------------------------
 WHAT IT DOES
