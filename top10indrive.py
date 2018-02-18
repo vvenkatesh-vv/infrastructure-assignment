@@ -7,7 +7,7 @@ def printf(list):
     while temp!=None:
         print(temp.name,end=' ')
         print('& size = ', end='')
-        print(temp.size, end='')
+        print("%.2f" % temp.size, end=' MB')
         print(' & path = ', end='')
         print(temp.path)
         temp=temp.next
@@ -77,7 +77,7 @@ def top(path ):
         if len(arr) == 1:
             top(path + '/' + file)
         elif len(arr)>1:
-            new=objct(file,os.stat(path+'/'+file).st_size,path+'/'+file,)
+            new=objct(file,(os.stat(path+'/'+file).st_size)/(1024*1024),path+'/'+file,)
             if list==None:
                 list=new
                 count+=1
