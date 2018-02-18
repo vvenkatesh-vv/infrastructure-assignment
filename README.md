@@ -1,5 +1,5 @@
 # infrastructure-assignment
---------------------------segregate.py--------------------------------------------------
+--------------------------segregate.py----------------------------------------------------------------------------------------------------
 WHAT IT DOES
 This program sorts the files on Desktop on the basis of file extension and move them in 
 separate folder in Documents folder.
@@ -14,7 +14,7 @@ creates a folder in Documents by that name.
 
 sorts all the files of Desktop into folders in the newly created folder.
 
-------------------------top10indrive.py------------------------------------------------
+------------------------top10indrive.py---------------------------------------------------------------------------------------------------
 WHAT IT DOES
 
 Scans all the folders recursively and then identifies the top 10 files which have 
